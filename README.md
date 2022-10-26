@@ -1,10 +1,7 @@
-### Hi 👋 I'm Mohammed Ghousuddin
-
-<!--
-**SagaciousDataAnalyzer/SagaciousDataAnalyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Mohammed Ghousuddin</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+
+<img align = "right" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Data Analytics**
 
